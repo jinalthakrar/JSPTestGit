@@ -7,8 +7,9 @@
 </head>  
 <body>  
   
-<%@page import="com.javatpoint.dao.UserDao,com.javatpoint.bean.*,java.util.*"%>  
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>  
+<%@page import="com.javatpoint.dao.UserDao,com.javatpoint.bean.*,java.util.*"%> 
+ <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>  
+
   
 <h1>Users List</h1>  
   
