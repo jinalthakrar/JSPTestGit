@@ -1,4 +1,4 @@
-package com.jsp;
+package com.javatpoint.dao;
 
 import java.sql.*;  
 import java.util.ArrayList;  
